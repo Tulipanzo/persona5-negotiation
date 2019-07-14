@@ -797,7 +797,7 @@
 	</tr>
 	<tr>
 		<td>A winner in society.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
 <table>
